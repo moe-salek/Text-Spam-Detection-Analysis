@@ -9,9 +9,7 @@ In this project we use a few labeled email/sms datasets, clean our datasets, spl
 
 ## Installation and Usage
 
-View in Github:
-
-Visit [here](spam_detection.ipynb).
+View in Github from [here](spam_detection.ipynb).
 
 Locally:
 
