@@ -11,7 +11,7 @@ In this project we use a few labeled email/sms datasets, clean our datasets, spl
 
 View in Github from [here](spam_detection.ipynb).
 
-Locally:
+### Locally
 
 Installation guide [here](install/README.md). And then simply:
 
