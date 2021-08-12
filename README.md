@@ -9,11 +9,17 @@ In this project we use a few labeled email/sms datasets, clean our datasets, spl
 
 ## Install
 
-visit [here](install/README.md).
+Read more [here](install/README.md).
 
 ## Run
 
-`jupyter notebook spam_detection.ipynb`
+View in Github:
+
+visit [here](spam_detection.ipynb).
+
+Locally:
+
+    jupyter notebook spam_detection.ipynb
 
 ## Credits
 
