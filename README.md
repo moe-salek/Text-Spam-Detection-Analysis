@@ -7,17 +7,15 @@ An NLP analysis project for text spam detection using Scikit-Learn and Pandas.
 
 In this project we use a few labeled email/sms datasets, clean our datasets, split them into train and test sets, train and fit the text classification model and finally get prediction results and analyze it.
 
-## Install
-
-Read more [here](install/README.md).
-
-## Run
+## Installation and Usage
 
 View in Github:
 
-visit [here](spam_detection.ipynb).
+Visit [here](spam_detection.ipynb).
 
 Locally:
+
+Installation guide [here](install/README.md). And then simply:
 
     jupyter notebook spam_detection.ipynb
 
