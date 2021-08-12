@@ -1,0 +1,15 @@
+name: nlp_project
+channels:
+  - defaults
+dependencies:
+  - pip
+  - spacy
+  - numpy
+  - keras
+  - matplotlib
+  - pandas
+  - nltk
+  - scikit-learn
+  - jupyter
+
+prefix: /home/salek/anaconda3/envs/nlp_project
